@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Abel and  i from Spain, Catalonia.<br><br>- 📚 I'm currently learning ASIX.<br>- ⚡ In my free time I do my personal projects</p>
+<p align="left">I'm Abel and  i from Catalonia, Spain .<br><br>- 📚 I'm currently learning ASIX.<br>- ⚡ In my free time I do my personal projects</p>
 
 ###
 
